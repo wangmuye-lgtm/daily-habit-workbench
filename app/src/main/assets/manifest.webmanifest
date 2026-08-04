@@ -1,0 +1,13 @@
+{
+  "name": "仙女驻凡大使馆SOP",
+  "short_name": "仙女SOP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f4",
+  "theme_color": "#4b8f6b",
+  "description": "体重、餐食、习惯和每日计划管理工作台",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
